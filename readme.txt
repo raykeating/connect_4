@@ -1,10 +1,7 @@
 ***********************************************************
 
-Assignment 1 | COSC3P71 | Fall 2021
-
 Connect 4 game with minimax AI
 Author: Ray Keating
-Student #: 6510200
 
 Language: Python 3
 
